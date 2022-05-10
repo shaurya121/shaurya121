@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaurya</h1>
-<h3 align="center">A passionate engineer from India</h3>
+<h3 align="center">A passionate engineer from Etawah, Uttar Pradesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaurya121&label=Profile%20views&color=0e75b6&style=flat" alt="shaurya121" /> </p>
 
